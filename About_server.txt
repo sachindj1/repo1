@@ -10,3 +10,4 @@ Database servers, which store and manage large amounts of data and provide acces
 Game servers, which host and manage online multiplayer games.
 Servers are often dedicated computers or virtual machines that are designed to handle a large number of requests and operate continuously.
 hello
+new changes
